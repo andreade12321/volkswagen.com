@@ -1,0 +1,23 @@
+<html>
+<head> 
+<title> Volkswagen </title>
+<link rel="icon" href="logo.jpg">
+</head> 
+<body>
+<img src="logo.jpg" width="300" height="300" align="left"> <br> </br>
+<center>
+<table border="1">
+<TR>
+<TH> <a href="autos.html"> <font size=6.5  face="Ebrima"> AUTOS </font> </a> </TH>
+<TH> <a href="ubica.html"> <font size=6.5  face="Ebrima"> UBICA TU CONCESIONARIA </font> </a> </TH>
+<TH> <a href="contacto.html"> <font size=6.5  face="Ebrima"> CONTACTO </font> </a> </TH>
+</TR>
+</table border>
+</center>
+<br> <br> <br> <br> <br> <br> <br> <br> <br>
+<p> <br> <br> 
+<center> 
+CARACTERISTICAS
+</center> 
+<br> <b> <i> <u>
+* contará con un motor TSI de 2.0 litros que genera 174 caballos de fuerza y 184 lb-ft de torque, el cual vendrá acoplado a una única transmisión automática de seis velocidades.

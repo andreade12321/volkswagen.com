@@ -1,0 +1,17 @@
+<html>
+<head> 
+<title> Volkswagen </title>
+<link rel="icon" href="logo.jpg">
+</head> 
+<body>
+<img src="logo.jpg" width="300" height="300" align="left"> <br> </br>
+<center>
+<table border="1">
+<TR>
+<TH> <a href="autos.html"> <font size=6.5  face="Ebrima"> AUTOS </font> </a> </TH>
+<TH> <a href="ubica.html"> <font size=6.5  face="Ebrima"> UBICA TU CONCESIONARIA </font> </a> </TH>
+<TH> <a href="contacto.html"> <font size=6.5  face="Ebrima"> CONTACTO </font> </a> </TH>
+</TR>
+</table border>
+</center>
+<br> <br> <br> <br> <br> <br> <br> <br> <br>
